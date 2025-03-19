@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in mach
 
 ## 💼 Skills
 - **Languages**: Python, Java, C++, SQL
-- **DevOps & Cloud**: AWS, Microsoft Azure, Docker, Kubernetes, Jenkins, GitHub
+- **DevOps & Cloud**: AWS, Azure, Docker, Jenkins, GitHub
 - **Data Processing**: PyTorch, Ollama, Hugging Face, Langchain
 - **Tools & HPC**: MacOS, Linux, CUDA, Slurm, Tableau
 

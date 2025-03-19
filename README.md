@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in mach
 - **Real-Time Streaming Pipeline**: A pipeline with real-time streaming capabilities, leveraging Confluent Kafka, Spark, and Airflow.
 
 ## 🌱 I'm Learning
-- Full-Stack Programming: React, Node.js, TypeScript
+- Full-Stack Programming: React, Node.js, TypeScript, GraphQL
 
 ## 💼 Skills
 - **Languages**: Python, Java, C++, SQL
